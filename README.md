@@ -1,8 +1,12 @@
-# Notas en relacion al diseño para imprimir 3D
+# Design notes related to 3D printing this design
 
-El diseño original lo saqué de http://domoticx.com/3d-ontwerp-scad-hinged-box-with-latch/
+Original design taken from http://domoticx.com/3d-ontwerp-scad-hinged-box-with-latch/, after it was changed to my end.
 
-Lo modifiqué luego. Las notas del que lo hizo dice:
+
+
+
+
+Notes form the original design:
 
 
 
